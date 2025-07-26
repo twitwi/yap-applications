@@ -13,9 +13,15 @@ The goal is to have small web apps that:
 
 Here are some applications available:
 
-- [gh](https://github.com/twitwi/yap-bbox) [cb](https://codeberg.org/twitwi/yap-bbox) yap-BBox is a time tracker which is yjs-backed, collaborative, offline-first.
-- [gh](https://github.com/twitwi/yap-chop) [cb](https://codeberg.org/twitwi/yap-chop) yap-Chop is a shopping list app which is yjs-backed, collaborative, offline-first.
-- [gh](https://github.com/twitwi/yap-habits) [cb](https://codeberg.org/twitwi/yap-habits) yap-Habits is a micro-habit tracker which is yjs-backed, collaborative, offline-first.
-- [gh](https://github.com/twitwi/yap-splitboard) [cb](https://codeberg.org/twitwi/yap-splitboard) yap-SplitBoard is a nested split dashboard to aggregate small applications.
+- [👁️](https://apps.heeere.com/bbox) [🐙](https://github.com/twitwi/yap-bbox) [🏔️](https://codeberg.org/twitwi/yap-bbox) yap-BBox is a time tracker which is yjs-backed, collaborative, offline-first.
+- [👁️](https://apps.heeere.com/chop) [🐙](https://github.com/twitwi/yap-chop) [🏔️](https://codeberg.org/twitwi/yap-chop) yap-Chop is a shopping list app which is yjs-backed, collaborative, offline-first.
+- [👁️](https://apps.heeere.com/habits) [🐙](https://github.com/twitwi/yap-habits) [🏔️](https://codeberg.org/twitwi/yap-habits) yap-Habits is a micro-habit tracker which is yjs-backed, collaborative, offline-first.
+- [👁️](https://apps.heeere.com/splitboard) [🐙](https://github.com/twitwi/yap-splitboard) [🏔️](https://codeberg.org/twitwi/yap-splitboard) yap-SplitBoard is a nested split dashboard to aggregate small applications.
 
+
+Technical aspects:
+
+- The amazing yjs: https://github.com/yjs/yjs
+- The tiny server to self-host: [🐙](https://github.com/twitwi/y-websocket-server) [🏔️](https://codeberg.org/twitwi/y-websocket-server) y-websocket-server
+- A reuseable vue+pwa(+yjs) template project: [🐙](https://github.com/twitwi/create-vue-customized) [🏔️](https://codeberg.org/twitwi/create-vue-customized) create-vue-customized
 
