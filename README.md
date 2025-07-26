@@ -16,6 +16,7 @@ Here are some applications available:
 - [👁️](https://apps.heeere.com/bbox) [🐙](https://github.com/twitwi/yap-bbox) [🏔️](https://codeberg.org/twitwi/yap-bbox) yap-BBox is a time tracker which is yjs-backed, collaborative, offline-first.
 - [👁️](https://apps.heeere.com/chop) [🐙](https://github.com/twitwi/yap-chop) [🏔️](https://codeberg.org/twitwi/yap-chop) yap-Chop is a shopping list app which is yjs-backed, collaborative, offline-first.
 - [👁️](https://apps.heeere.com/habits) [🐙](https://github.com/twitwi/yap-habits) [🏔️](https://codeberg.org/twitwi/yap-habits) yap-Habits is a micro-habit tracker which is yjs-backed, collaborative, offline-first.
+- [👁️](https://apps.heeere.com/lsedit) [🐙](https://github.com/twitwi/yap-lsedit) [🏔️](https://codeberg.org/twitwi/yap-lsedit) yap-LSEdit is a simple localStorage editor which is offline-first.
 - [👁️](https://apps.heeere.com/splitboard) [🐙](https://github.com/twitwi/yap-splitboard) [🏔️](https://codeberg.org/twitwi/yap-splitboard) yap-SplitBoard is a nested split dashboard to aggregate small applications.
 
 
