@@ -19,7 +19,7 @@ Here are some applications available:
 - [👁️](https://apps.heeere.com/splitboard) [🐙](https://github.com/twitwi/yap-splitboard) [🏔️](https://codeberg.org/twitwi/yap-splitboard) yap-SplitBoard is a nested split dashboard to aggregate small applications.
 
 
-Technical aspects:
+Some technical aspects:
 
 - The amazing yjs: https://github.com/yjs/yjs
 - The tiny server to self-host: [🐙](https://github.com/twitwi/y-websocket-server) [🏔️](https://codeberg.org/twitwi/y-websocket-server) y-websocket-server
