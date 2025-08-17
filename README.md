@@ -16,6 +16,7 @@ Here are some applications available:
 - [👁️](https://apps.heeere.com/bbox) [🐙](https://github.com/twitwi/yap-bbox) [🏔️](https://codeberg.org/twitwi/yap-bbox) yap-BBox is a time tracker which is yjs-backed, collaborative, offline-first.
 - [👁️](https://apps.heeere.com/chop) [🐙](https://github.com/twitwi/yap-chop) [🏔️](https://codeberg.org/twitwi/yap-chop) yap-Chop is a shopping list app which is yjs-backed, collaborative, offline-first.
 - [👁️](https://apps.heeere.com/habits) [🐙](https://github.com/twitwi/yap-habits) [🏔️](https://codeberg.org/twitwi/yap-habits) yap-Habits is a micro-habit tracker which is yjs-backed, collaborative, offline-first.
+- [👁️](https://apps.heeere.com/loc) [🐙](https://github.com/twitwi/yap-loc) [🏔️](https://codeberg.org/twitwi/yap-loc) yap-Loc is a location app to get your location in case of emergency or in case of tracking during a day out, offline-first.
 - [👁️](https://apps.heeere.com/lsedit) [🐙](https://github.com/twitwi/yap-lsedit) [🏔️](https://codeberg.org/twitwi/yap-lsedit) yap-LSEdit is a simple localStorage editor which is offline-first.
 - [👁️](https://apps.heeere.com/splitboard) [🐙](https://github.com/twitwi/yap-splitboard) [🏔️](https://codeberg.org/twitwi/yap-splitboard) yap-SplitBoard is a nested split dashboard to aggregate small applications.
 
@@ -23,6 +24,7 @@ Here are some applications available:
 Some technical aspects:
 
 - The amazing yjs: https://github.com/yjs/yjs
+- My fork of the pinia-plugin-yjs: [🐙](https://github.com/twitwi/pinia-plugin-yjs) [🏔️](https://codeberg.org/twitwi/pinia-plugin-yjs) pinia-plugin-yjs
 - The tiny server to self-host: [🐙](https://github.com/twitwi/y-websocket-server) [🏔️](https://codeberg.org/twitwi/y-websocket-server) y-websocket-server
 - A reuseable vue+pwa(+yjs) template project: [🐙](https://github.com/twitwi/create-vue-customized) [🏔️](https://codeberg.org/twitwi/create-vue-customized) create-vue-customized
 
